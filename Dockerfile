@@ -23,5 +23,6 @@ WORKDIR /app
 
 # Expose the port that textual serve uses by default
 EXPOSE 8000
-CMD ["python", "app_entrypoint.py"]
-#CMD ["python", "app.py"]
+# Use textual serve instead of directly running the Python script
+CMD ["textual", "serve", "--host", "0.0.0.0", "python -m app"]
+#CMD textual serve "python -m app"

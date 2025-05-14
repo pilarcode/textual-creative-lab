@@ -6,7 +6,7 @@ This is a dummy project to understand how to deploy a textual app in a container
 
 * Option 1: The app will run as a web app at http://localhost:8000
 ```bash
-python "app_entrypoint.py"
+textual serve  "python app_entrypoint.py"
 ```
 
 * Option 2: The app will run as a terminal user interface app.
@@ -18,7 +18,7 @@ python "app.py"
 
 ### 1. Build your Docker image
 Build the Docker image using the provided Dockerfile. This command creates a new image named `poc`:
-```bash
+```bash 
 docker build -t poc .
 ```
 
