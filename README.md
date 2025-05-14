@@ -23,7 +23,7 @@ docker build -t poc .
 
 ### Run a new container
 ```bash
-docker run -it -p 8005:8005 poc /bin/bash
+docker run -it -p 8000:8000 poc /bin/bash
 ```
 
 ### Inside the container
