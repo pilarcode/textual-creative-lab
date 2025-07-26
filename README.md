@@ -1,6 +1,5 @@
 # 👍 Playing with textual library
 
-Collection of examples and libraries to build TUI.
 I have created a widget to visualize images using some of these libraries.
 
 ## Demo
