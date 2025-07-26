@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 * The app will run as a terminal user interface app.
 ```bash
-python "app.py"
+python "examples\textual-my-image-box-widget.py"
 ```
 
 
