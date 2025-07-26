@@ -21,37 +21,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-* Option 1: The app will run as a web app at http://localhost:8005
-```bash
-python "app_entrypoint.py"
-```
 
-* Option 2: The app will run as a terminal user interface app.
+* The app will run as a terminal user interface app.
 ```bash
 python "app.py"
 ```
 
-## Deployment on the Cloud
-
-### Build your Docker image with the Dockerfile 
-```bash
-docker build -t poc .
-```
-
-### Run a new container
-```bash
-docker run -it -p 8000:8000 poc /bin/bash
-```
-
-### Inside the container
-```bash
-docker ps -a
-```
-
-### Exec will run inside your existing, running container 
-```bash
-docker exec -it <container_id> /bin/bash
-```
 
 ##### References
 - https://pypi.org/project/textual-autocomplete/
