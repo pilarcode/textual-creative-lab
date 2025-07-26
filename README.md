@@ -1,6 +1,14 @@
-# Textual Devops lab
+# Textual 
 
-This is a dummy project to understand how to deploy a textual app in a container.
+Playing with textual:
+
+- https://pypi.org/project/textual-autocomplete/
+- https://pypi.org/project/textual-plotext/
+- https://pypi.org/project/textual-canvas/
+- https://pypi.org/project/plotext/
+- https://pypi.org/project/rich-pixels/
+- https://pypi.org/project/textual-image/
+- https://github.com/adamviola/textual-imageview  
 
 ## Setup
 
@@ -27,10 +35,3 @@ pip install -r requirements.txt
 python "app.py"
 ```
 
-
-##### References
-- https://pypi.org/project/textual-autocomplete/
-- https://pypi.org/project/textual-plotext/
-- https://pypi.org/project/textual-canvas/
-- https://pypi.org/project/plotext/
-- https://pypi.org/project/rich-pixels/
