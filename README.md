@@ -1,8 +1,9 @@
-# Textual Laboratory
+# 👍 Playing with textual library
 
-Playing with textual to create new widgets.
+Collection of examples and libraries to build TUI.
+I have created a widget to visualize images using some of these libraries.
 
-For example, a widget to visualize images
+## Demo
 
 ![demo](demos/demo_custom_image_box_widget.png)
 
