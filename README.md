@@ -21,12 +21,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-* Option 1: The app will run as a web app at http://localhost:8005
-```bash
-python "app_entrypoint.py"
-```
-
-* Option 2: The app will run as a terminal user interface app.
+The app will run as a terminal user interface app.
 ```bash
 python "app.py"
 ```
@@ -52,10 +47,3 @@ docker ps -a
 ```bash
 docker exec -it <container_id> /bin/bash
 ```
-
-##### References
-- https://pypi.org/project/textual-autocomplete/
-- https://pypi.org/project/textual-plotext/
-- https://pypi.org/project/textual-canvas/
-- https://pypi.org/project/plotext/
-- https://pypi.org/project/rich-pixels/

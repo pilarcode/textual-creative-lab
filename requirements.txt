@@ -1,9 +1,2 @@
 textual==5.0.1
 textual-dev==1.7.0
-textual-plotext==1.0.1
-textual-autocomplete==4.0.4
-textual-canvas==0.4.0
-plotext==5.3.2
-rich-pixels==3.0.1
-pafy==0.5.5
-youtube_dl==2021.12.17

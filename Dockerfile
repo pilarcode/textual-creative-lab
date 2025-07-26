@@ -21,8 +21,5 @@ RUN pip install --no-cache-dir --upgrade pip && \
 # Set working directory to where the app should be served from
 WORKDIR /app
 
-# Expose the port that textual serve uses by default
-#EXPOSE 8005
-#CMD ["python", "app_entrypoint.py"]
 
 CMD ["python", "app.py"]
