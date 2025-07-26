@@ -1,14 +1,7 @@
-# Textual 
+# Textual Laboratory
 
-Playing with textual:
+Playing with textual to create new widgets.
 
-- https://pypi.org/project/textual-autocomplete/
-- https://pypi.org/project/textual-plotext/
-- https://pypi.org/project/textual-canvas/
-- https://pypi.org/project/plotext/
-- https://pypi.org/project/rich-pixels/
-- https://pypi.org/project/textual-image/
-- https://github.com/adamviola/textual-imageview  
 
 ## Setup
 
@@ -34,4 +27,16 @@ pip install -r requirements.txt
 ```bash
 python "app.py"
 ```
+## Demo
 
+[Custom widget to show images](demos/demo_custom_image_box_widget.png)
+
+
+## Libraries 
+- https://pypi.org/project/textual-autocomplete/
+- https://pypi.org/project/textual-plotext/
+- https://pypi.org/project/textual-canvas/
+- https://pypi.org/project/plotext/
+- https://pypi.org/project/rich-pixels/
+- https://pypi.org/project/textual-image/
+- https://github.com/adamviola/textual-imageview  
