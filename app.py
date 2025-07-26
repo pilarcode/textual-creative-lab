@@ -12,7 +12,7 @@ class DashboardApp(App[None]):
 
     def compose(self):
         yield Header()
-        yield Static("This is a test Textual app")
+        yield Static("This is a test Textual app!")
         yield Footer()
   
 
