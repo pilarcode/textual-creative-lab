@@ -26,11 +26,3 @@ pip install -r requirements.txt
 ```bash
 python "app.py"
 ```
-
-
-##### References
-- https://pypi.org/project/textual-autocomplete/
-- https://pypi.org/project/textual-plotext/
-- https://pypi.org/project/textual-canvas/
-- https://pypi.org/project/plotext/
-- https://pypi.org/project/rich-pixels/
