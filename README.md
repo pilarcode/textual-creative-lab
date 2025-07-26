@@ -2,6 +2,10 @@
 
 Playing with textual to create new widgets.
 
+For example, a widget to visualize images
+
+![demo](demos/demo_custom_image_box_widget.png)
+
 
 ## Setup
 
@@ -27,9 +31,6 @@ pip install -r requirements.txt
 ```bash
 python "app.py"
 ```
-## Demo
-
-[Custom widget to show images](demos/demo_custom_image_box_widget.png)
 
 
 ## Libraries 
