@@ -29,7 +29,7 @@ class ImageBox(Widget):
 
 class MyImageApp(App[None]):
 
-    TITLE = "App the shows an image in the terminal"
+    TITLE = "App that shows an image in the terminal"
     BINDINGS = [
         ("q", "quit", "Quit"),
     ]
