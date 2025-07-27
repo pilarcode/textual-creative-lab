@@ -1,11 +1,15 @@
-# 👍 Playing with textual library
+# 👍 Playing with textual libraries
 
-I have created a widget to visualize images using some of these libraries.
+I have created a widget to visualize images on the terminal.
 
 ## Demo
+Given a picture, for instance a picture of the Spanish women's football team:
+![spanish women's football team](https://github.com/pilarcode/textual-image-widget-lab/blob/master/data/world_champions.jpg)
 
+ I would like to see the image on the terminal:
 ![demo](demos/demo_custom_image_box_widget.png)
 
+Note: I would like to see the image in high resolution.
 
 ## Setup
 
